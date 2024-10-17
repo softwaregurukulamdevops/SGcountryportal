@@ -5,7 +5,7 @@ provider "azurerm" {
 # Define the Resource Group
 resource "azurerm_resource_group" "example" {
   name     = "rg-countryportal-resources"
-  location = "Brazil US"  # Replace with your desired location
+  location = "UAE Central"  # Replace with your desired location
 }
 
 # Define the Standard App Service Plan
